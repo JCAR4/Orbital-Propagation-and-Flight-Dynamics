@@ -1,6 +1,6 @@
 # Orbital Propagation and Flight Dynamics
 
-Python toolkit (AS3050 – Flight Dynamics 2, IIT Madras) for extracting orbital elements, propagating satellite trajectories, and plotting ground tracks (ISS & Molniya).
+Python toolkit for extracting orbital elements, propagating satellite trajectories, and plotting ground tracks (ISS & Molniya).
 
 ## Features
 - COEs from **TLE** and from **ECI state vectors (r, v)**; side-by-side comparison.
